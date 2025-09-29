@@ -1484,12 +1484,12 @@ W         W""",
         "desc": "A man name Peťo.",
         "lose_xp": 4,
         "rarity": 1,
-        "types": ["stone", "normal"],
+        "types": ["normal"],
         "evolve_poke": "",
         "evolve_lvl": 0,
         "initiative": 5,
         "ico": [{
-            "txt": r"""       .-""""""-.
+            "txt": r"""       .-------.
    .'          '.
   /   O      O   \
  :           `    :
